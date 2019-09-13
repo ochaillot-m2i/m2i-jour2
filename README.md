@@ -1,7 +1,6 @@
 # m2i-jour2
 Formation jour 2
 
-
 NATIVE] SELECT 
   LIGNE.GL_NATUREPIECEG, 
   LIGNE.GL_DATEPIECE, LIGNE.GL_ARTICLE, LIGNE.GL_CODEARTICLE, LIGNE.GL_ETABLISSEMENT, LIGNE.GL_DEPOT, 
@@ -21,6 +20,4 @@ WHERE
   
   
   => Curieusement SQL server ne trouve pas tous les dépôts
-  
-  
-  
+ 
