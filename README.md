@@ -20,3 +20,7 @@ WHERE
   (LIGNE.GL_DATEPIECE >= '20110101 00:00:00' AND LIGNE.GL_DATEPIECE <= '20111231 00:00:00' AND LIGNE.GL_DEPOT IN ('<<Tous>>' ) AND LIGNE.GL_TYPELIGNE = 'ART')
   
   
+  => Curieusement SQL server ne trouve pas tous les dépôts
+  
+  
+  
